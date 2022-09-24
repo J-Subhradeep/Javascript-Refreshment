@@ -6,5 +6,5 @@ let obj = {
 // let one = obj.one;
 // let two = obj.two;
 // let three = obj.three;
-let { one, two, three } = obj;
-console.log(one, two, three);
+let [one, two, thre] = Object.values(obj);
+console.log(one, two, thre);
