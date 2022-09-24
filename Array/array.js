@@ -1,0 +1,12 @@
+var arr = ["a", "b", "c", "d", "e", "f", "g", "h", "i"];
+// console.log(arr.push("you"));
+// arr.push("you");
+// var str = arr.join("");
+// arr.reverse();
+// console.log(arr);
+// console.log(arr.length);
+// console.log(arr.indexOf("c"));
+// console.log(arr.includes("c"));
+// console.log(arr.reverse());
+// console.log(arr.join(""));
+console.log(str);
